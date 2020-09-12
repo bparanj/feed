@@ -1,3 +1,5 @@
 1. Change feed to use iTunes format.
 2. Setup Amazon Creator feed https://creator.amazon.com/documentation/ac/overview.html
 3. Create HTML5 app for firetv
+4. Copy and host on codingjedi.club static site
+5. Submit feed to Amazon creator and iTunes
